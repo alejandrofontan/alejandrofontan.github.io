@@ -1,0 +1,153 @@
+<!DOCTYPE HTML>
+<!--
+	Based on Strata by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+	Adapted by Lukas Schmid
+-->
+
+<html>
+
+<head>
+  <title>Alejandro Fontan</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes, minimum-scale=1" />
+  <link rel="stylesheet" href="assets/css/main.css" />
+  <base target="_blank">
+  <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+</head>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RKGKPT9DC6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments); }
+  gtag('js', new Date());
+  gtag('config', 'G-RKGKPT9DC6');
+</script>
+
+<body class="is-preload">
+  <header id="header"></header>
+  <nav id="nav"></nav>
+
+  <!-- Main -->
+  <div id="main">
+
+    <!-- Publications -->
+    <section id="publications">
+      <header class="major">
+        <h1>Publications</h1>
+      </header>
+      <!--<p>Contributions to peer-reviewed journals, peer-reviewed conference proceedings, recent preprints, and
+        other
+        publications. <br>*Indicates I am a second listed shared first author.</p>-->
+
+      <ul class="actions fit">
+        <!-- <li><a href="#journals" class="button fit" target="_self">Journals</a></li> -->
+        <li><a href="#conferences" class="button fit" target="_self">Main Publications (as 1st author)</a></li>
+        <li><a href="#workshops" class="button fit" target="_self">Workshops (as 1st organizer)</a></li>
+        <li><a href="#conferencesCoauthor" class="button fit" target="_self"> Main Publications (as co-author)</a></li>
+      </ul>
+      <ul class="actions fit">
+        <!-- <li><a href="#journals" class="button fit" target="_self">Journals</a></li> -->        
+        <li><a href="#conferencesOther" class="button fit" target="_self"> More Publications </a></li>
+        <!-- <li><a href="#preprints" class="button fit" target="_self">Preprints</a></li> -->
+        <!-- <li><a href="#theses" class="button fit" target="_self">Theses</a></li> -->
+      </ul>
+    </section>
+
+    <!--<section id="journals">
+      <h1>Journals</h1>
+      <table id="tableJournals">
+        <tbody>
+        </tbody>
+      </table>
+    </section>  -->
+
+    <section id="conferences">
+      <h1>Publications (as 1st author)</h1>
+      <table id="tableConferences">
+        <tbody>
+        </tbody>
+      </table>
+    </section>
+
+    <section id="workshops">
+      <h1>Workshops (as 1st organizer)</h1>
+      <table id="tableWorkshops">
+        <tbody>
+        </tbody>
+      </table>
+    </section>
+
+    <section id="conferencesCoauthor">
+      <h1>Main Publications (as co-author)</h1>
+      <table id="tableConferencesCoauthor">
+        <tbody>
+        </tbody>
+      </table>
+    </section>
+
+    <section id="conferencesOther">
+      <h1>More Publications</h1>
+      <table id="tableConferencesOther">
+        <tbody>
+        </tbody>
+      </table>
+    </section>
+
+    <!-- <section id="preprints">
+      <h1>Preprints</h1>
+      <table id="tablePreprints">
+        <tbody>
+        </tbody>
+      </table>
+    </section>  -->
+
+    <!-- <section id="theses">
+      <h1>Theses</h1>
+      <table id="tableOthers">
+        <tbody>
+        </tbody>
+      </table>
+    </section>  -->
+
+  </div>
+
+  <!-- Footer -->
+  <footer id="footer"></footer>
+
+  <!-- Scripts -->
+  <script src="assets/js/jquery.min.js"></script>
+  <script src="assets/js/jquery.poptrox.min.js"></script>
+  <script src="assets/js/browser.min.js"></script>
+  <script src="assets/js/breakpoints.min.js"></script>
+  <script src="assets/js/util.js"></script>
+
+  <!-- Import all jsons of publications and build tables. -->
+  <!--<script src="publications/journals.js"></script> -->
+  <script src="publications/conferences.js"></script>
+  <script src="publications/workshops.js"></script>
+  <script src="publications/conferencesCoauthor.js"></script>
+  <script src="publications/conferencesOther.js"></script>
+  <!--<script src="publications/preprints.js"></script> -->
+  <!--<script src="publications/other.js"></script> -->
+  <script src="assets/js/build-publication.js"></script>
+  <script type="text/javascript">
+    buildTable(pubConferences, "tableConferences");
+    buildTable(pubWorkshops, "tableWorkshops");
+    buildTable(pubConferencesCoauthor, "tableConferencesCoauthor");
+    buildTable(pubConferencesOther, "tableConferencesOther");
+  </script>
+  <script src="assets/js/build-header-footer.js"></script>
+  <script src="assets/js/main.js"></script>
+
+    <!--buildTable(pubJournals, "tableJournals");
+    buildTable(pubConferences, "tableConferences");
+    buildTable(pubWorkshops, "tableWorkshops");
+    buildTable(pubPreprints, "tablePreprints");
+    buildTable(pubOthers, "tableOthers"); -->
+
+</body>
+
+</html>
