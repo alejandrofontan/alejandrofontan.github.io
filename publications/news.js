@@ -15,7 +15,14 @@ const pubNews = [
   //   "thumb": "gt_logo.jpg",
   //   "caption": "I presented my research on Spatio-Temporal AI at the Georgia Institute of Technology!"
   // },
-    {
+  {
+    "title": "Last Monday I had the opportunity to run some VSLAM experiments at the QUT Space Technology Precinct (Yandiwanba) with our latest <a href='https://github.com/alejandrofontan/AllFeature-VSLAM'/> AllFeature-VSLAM </a>. <a href='https://youtu.be/yfCMZe00Ylw'/> Showcase Video </a>",
+    "date": "3/2026",
+    "image": "yandiwanba.png",
+    "thumb": "yandiwanba.png",
+    "caption": "Last Monday I had the opportunity to run some VSLAM experiments at the QUT Space Technology Precinct (Yandiwanba) with our latest <a href='https://github.com/alejandrofontan/AllFeature-VSLAM'/> AllFeature-VSLAM </a>. <a href='https://youtu.be/yfCMZe00Ylw'/> Showcase Video </a>"
+  },
+  {
     "title": "Huge thanks to everyone who came to my VSLAM-LAB talk, stopped by the poster, or caught me in the halls at #IROS2025 — thank you for your questions, ideas, and conversations! <a href='https://youtu.be/BCVkhITwjO0'/>Talk recording</a>",
     "date": "10/2025",
     "image": "2025_IROS.png",
