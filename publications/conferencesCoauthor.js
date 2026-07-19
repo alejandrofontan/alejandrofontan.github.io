@@ -29,7 +29,7 @@ const pubConferencesCoauthor = [
     "year": "2021",
     "pages": "Wiley Online Library",
     "links": [{"name": "Paper", "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/rob.22016"}, {"name": "Dataset", "link": "https://datasets.arches-projekt.de/morocco2018/"}],
-    "citations": ["> 65 citations on scholar"]
+    "citations": ["> 85 citations on scholar"]
   },
   {
     "authors": ["I. Ballester", "A. Fontan", "J. Civera", "KH. Strobl", "R. Triebel"],
@@ -40,7 +40,7 @@ const pubConferencesCoauthor = [
     "year": "2021",
     "pages": "Xi'an, China, June",
     "links": [{"name": "Paper", "link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9561452"}, {"name": "YouTube", "link": "https://youtu.be/9hWChyQGKJk"}, { "name": "ICRA21", "link": "https://ewh.ieee.org/soc/ras/conf/fullysponsored/icra/icra2021/icra2021/web.archive.org/web/20210531183741/https_/www.ieee-icra.org/index.html" }],
-    "citations": ["> 110 citations on scholar"]
+    "citations": ["> 130 citations on scholar"]
   },
   // {
   //   "authors": ["S. Looper", "J. Rodriguez-Puigvert", "R. Siegwart", "C. Cadena", "L. Schmid"],
