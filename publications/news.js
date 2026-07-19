@@ -1,20 +1,27 @@
 
 // News thumb: WxH ~ 1x0.7
 const pubNews = [
-  // {
-  //   "title": "I've been named an RSS: Pioneer! [<a href='https://sites.google.com/view/rsspioneers2025/'/>RSS Pioneers</a>]",
-  //   "date": "4/2025",
-  //   "image": "rss_pioneers.jpg",
-  //   "thumb": "rss_pioneers.jpg",
-  //   "caption": "I've been named an RSS: Pioneer! [<a href='https://sites.google.com/view/rsspioneers2025/'/>RSS Pioneers</a>]"
-  // },
-  // {
-  //   "title": "I presented my research on Spatio-Temporal AI at the Georgia Institute of Technology!",
-  //   "date": "3/2025",
-  //   "image": "gt_logo.jpg",
-  //   "thumb": "gt_logo.jpg",
-  //   "caption": "I presented my research on Spatio-Temporal AI at the Georgia Institute of Technology!"
-  // },
+  {
+    "title": "We organized <a href='https://alejandrofontan.github.io/Mapping-the-Reef-RSS26/'/>Mapping the Reef</a>, a workshop on underwater 3D reconstruction for coral ecosystems, at RSS 2026 in Sydney.",
+    "date": "7/2026",
+    "image": "mapping-the-reef.png",
+    "thumb": "mapping-the-reef.png",
+    "caption": "We co-organized <a href='https://alejandrofontan.github.io/Mapping-the-Reef-RSS26/'/>Mapping the Reef</a>, a workshop on underwater 3D reconstruction for coral ecosystems, at RSS 2026 in Sydney."
+  },
+  {
+    "title": "I presented our paper <a href='https://ieeexplore.ieee.org/abstract/document/11598716'/>Aerial Visual Place Recognition in Antarctica: Towards Robust Monitoring in Extreme Environments</a> at <a href='https://uasconferences.com/2026_icuas/'/>ICUAS 2026</a> in Corfu, Greece.",
+    "date": "6/2026",
+    "image": "icuas26.png",
+    "thumb": "icuas26.png",
+    "caption": "I presented our paper <a href='https://ieeexplore.ieee.org/abstract/document/11598716'/>Aerial Visual Place Recognition in Antarctica: Towards Robust Monitoring in Extreme Environments</a> at <a href='https://uasconferences.com/2026_icuas/'/>ICUAS 2026</a> in Corfu, Greece."
+  },
+  {
+    "title": "We organized <a href='https://alejandrofontan.github.io/The-Good-Reviewer-ICRA26/'/>The Good Reviewer</a>, a workshop on shaping up peer-review in the robotics community, at ICRA 2026 in Vienna, together with the <a href='https://www.ieee-ras.org/conferences-workshops/young-reviewers-program/'/>IEEE RAS Young Reviewers Program</a>.",
+    "date": "6/2026",
+    "image": "the-good-reviewer.png",
+    "thumb": "the-good-reviewer.png",
+    "caption": "We co-organized <a href='https://alejandrofontan.github.io/The-Good-Reviewer-ICRA26/'/>The Good Reviewer</a>, a workshop on shaping up peer-review in the robotics community, at ICRA 2026 in Vienna, together with the <a href='https://www.ieee-ras.org/conferences-workshops/young-reviewers-program/'/>IEEE RAS Young Reviewers Program</a>."
+  },
   {
     "title": "Last Monday I had the opportunity to run some VSLAM experiments at the QUT Space Technology Precinct (Yandiwanba) with our latest <a href='https://github.com/alejandrofontan/AllFeature-VSLAM'/> AllFeature-VSLAM </a>. <a href='https://youtu.be/yfCMZe00Ylw'/> Showcase Video </a>",
     "date": "3/2026",
