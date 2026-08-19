@@ -7,6 +7,12 @@ const pubCode = {
     "description": "An open-source, reproducible framework for benchmarking Visual SLAM baselines and datasets — all in one place.",
     "stars": "> 350 stars on GitHub"
   },
+  "allfeature": {
+    "link": "https://github.com/alejandrofontan/AllFeature-VSLAM",
+    "short_url": "/alejandrofontan/AllFeature-VSLAM",
+    "image": "AllFeature-VSLAM.png", "title": "AllFeature-VSLAM: A Tightly Coupled Multi-Feature Approach for Visual SLAM",
+    "description": " A complete visual SLAM system that jointly incorporates heterogeneous binary (e.g., ORB) and non-binary point feature descriptors (e.g., SIFT and ALIKED) in both the front-end and back-end, maintaining a single 3D map state and performing tightly coupled joint geometric optimization using all feature measurements.",
+  },
   "bommietoolkit": {
     "link": "https://github.com/BommieToolkit/BommieToolkit",
     "short_url": "/BommieToolkit/BommieToolkit",
