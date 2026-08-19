@@ -4,36 +4,36 @@ const pubNews = [
   {
     "title": "We organized <a href='https://alejandrofontan.github.io/Mapping-the-Reef-RSS26/'/>Mapping the Reef</a>, a workshop on underwater 3D reconstruction for coral ecosystems, at RSS 2026 in Sydney.",
     "date": "7/2026",
-    "image": "mapping-the-reef.png",
-    "thumb": "mapping-the-reef.png",
+    "image": "mapping-the-reef.jpg",
+    "thumb": "mapping-the-reef.jpg",
     "caption": "We co-organized <a href='https://alejandrofontan.github.io/Mapping-the-Reef-RSS26/'/>Mapping the Reef</a>, a workshop on underwater 3D reconstruction for coral ecosystems, at RSS 2026 in Sydney."
   },
   {
     "title": "I presented our paper <a href='https://ieeexplore.ieee.org/abstract/document/11598716'/>Aerial Visual Place Recognition in Antarctica: Towards Robust Monitoring in Extreme Environments</a> at <a href='https://uasconferences.com/2026_icuas/'/>ICUAS 2026</a> in Corfu, Greece.",
     "date": "6/2026",
-    "image": "icuas26.png",
-    "thumb": "icuas26.png",
+    "image": "icuas26.jpg",
+    "thumb": "icuas26.jpg",
     "caption": "I presented our paper <a href='https://ieeexplore.ieee.org/abstract/document/11598716'/>Aerial Visual Place Recognition in Antarctica: Towards Robust Monitoring in Extreme Environments</a> at <a href='https://uasconferences.com/2026_icuas/'/>ICUAS 2026</a> in Corfu, Greece."
   },
   {
     "title": "We organized <a href='https://alejandrofontan.github.io/The-Good-Reviewer-ICRA26/'/>The Good Reviewer</a>, a workshop on shaping up peer-review in the robotics community, at ICRA 2026 in Vienna, together with the <a href='https://www.ieee-ras.org/conferences-workshops/young-reviewers-program/'/>IEEE RAS Young Reviewers Program</a>.",
     "date": "6/2026",
-    "image": "the-good-reviewer.png",
-    "thumb": "the-good-reviewer.png",
+    "image": "the-good-reviewer.jpg",
+    "thumb": "the-good-reviewer.jpg",
     "caption": "We co-organized <a href='https://alejandrofontan.github.io/The-Good-Reviewer-ICRA26/'/>The Good Reviewer</a>, a workshop on shaping up peer-review in the robotics community, at ICRA 2026 in Vienna, together with the <a href='https://www.ieee-ras.org/conferences-workshops/young-reviewers-program/'/>IEEE RAS Young Reviewers Program</a>."
   },
   {
     "title": "Last Monday I had the opportunity to run some VSLAM experiments at the QUT Space Technology Precinct (Yandiwanba) with our latest <a href='https://github.com/alejandrofontan/AllFeature-VSLAM'/> AllFeature-VSLAM </a>. <a href='https://youtu.be/yfCMZe00Ylw'/> Showcase Video </a>",
     "date": "3/2026",
-    "image": "yandiwanba.png",
-    "thumb": "yandiwanba.png",
+    "image": "yandiwanba.jpg",
+    "thumb": "yandiwanba.jpg",
     "caption": "Last Monday I had the opportunity to run some VSLAM experiments at the QUT Space Technology Precinct (Yandiwanba) with our latest <a href='https://github.com/alejandrofontan/AllFeature-VSLAM'/> AllFeature-VSLAM </a>. <a href='https://youtu.be/yfCMZe00Ylw'/> Showcase Video </a>"
   },
   {
     "title": "Huge thanks to everyone who came to my VSLAM-LAB talk, stopped by the poster, or caught me in the halls at #IROS2025 — thank you for your questions, ideas, and conversations! <a href='https://youtu.be/BCVkhITwjO0'/>Talk recording</a>",
     "date": "10/2025",
-    "image": "2025_IROS.png",
-    "thumb": "2025_IROS.png",
+    "image": "2025_IROS.jpg",
+    "thumb": "2025_IROS.jpg",
     "caption": "Huge thanks to everyone who came to my VSLAM-LAB talk, stopped by the poster, or caught me in the halls at #IROS2025 — thank you for your questions, ideas, and conversations! <a href='https://youtu.be/BCVkhITwjO0'/>Talk recording</a>"
   },
   {
