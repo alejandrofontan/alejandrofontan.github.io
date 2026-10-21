@@ -57,6 +57,13 @@ const pubNews = [
     "thumb": "VSLAM-LAB-Git.png",
     "caption": "Introducing <a href='https://github.com/VSLAM-LAB/VSLAM-LAB'/>VSLAM-LAB</a>! A Unified Framework for Visual SLAM Benchmarking."
   },
+  {
+    "title": "<a href='https://github.com/alejandrofontan/AnyFeature-VSLAM'/>AnyFeature-VSLAM</a>: Automating the Usage of Any Feature into Visual SLAM <a href='https://youtu.be/z8SngyQiM0k'/>. RSS2024 Presentation</a>",
+    "date": "7/2024",
+    "image": "rss24.png",
+    "thumb": "rss24.png",
+    "caption": "<a href='https://github.com/alejandrofontan/AnyFeature-VSLAM'/>AnyFeature-VSLAM</a>: Automating the Usage of Any Feature into Visual SLAM <a href='https://youtu.be/z8SngyQiM0k'/>. RSS2024 Presentation</a>"
+  },
   // {
   //   "title": "I presented my research on Spatio-Temporal AI at Boston University!",
   //   "date": "3/2025",
