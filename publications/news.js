@@ -1,6 +1,13 @@
 
 // News thumb: WxH ~ 1x0.7
 const pubNews = [
+   {
+    "title": "I visited <a href='https://web.mit.edu/sparklab/'/>SPARK Lab</a> at MIT, where I had the chance to showcase my research on Visual SLAM. Many thanks to the team for their hospitality and for the great discussions!",
+    "date": "10/2026",
+    "image": "2026-10-mit.png",
+    "thumb": "2026-10-mit.png",
+    "caption": "I visited <a href='https://web.mit.edu/sparklab/'/>SPARK Lab</a> at MIT, where I had the chance to showcase my research on Visual SLAM. Many thanks to the team for their hospitality and for the great discussions!"
+  },
   {
     "title": "We organized <a href='https://alejandrofontan.github.io/Mapping-the-Reef-RSS26/'/>Mapping the Reef</a>, a workshop on underwater 3D reconstruction for coral ecosystems, at RSS 2026 in Sydney.",
     "date": "7/2026",
@@ -64,6 +71,7 @@ const pubNews = [
     "thumb": "rss24.png",
     "caption": "<a href='https://github.com/alejandrofontan/AnyFeature-VSLAM'/>AnyFeature-VSLAM</a>: Automating the Usage of Any Feature into Visual SLAM <a href='https://youtu.be/z8SngyQiM0k'/>. RSS2024 Presentation</a>"
   },
+
   // {
   //   "title": "I presented my research on Spatio-Temporal AI at Boston University!",
   //   "date": "3/2025",
